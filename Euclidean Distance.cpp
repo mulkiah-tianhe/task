@@ -29,4 +29,4 @@ float distanceCalculate(double x1, double y1, double x2, double y2)
     dist = distanceCalculate(x1, y1, x2, y2);    //initiate equation
 	cout<<setprecision(4)<<dist;
 	
-}s
+}
