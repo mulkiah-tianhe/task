@@ -17,9 +17,11 @@ float distanceCalculate(double x1, double y1, double x2, double y2)
 	return dist;
 }
 
+
  main()
 {
-	double x1, y1, x2, y2;
+	double x1;
+	double y1, x2, y2;
 	float dist;
 	cin >> x1;
 	cin >> y1;
